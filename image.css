@@ -1,0 +1,44 @@
+body{
+	background-color:darkgray;
+}
+html{
+	height:100%;
+}
+.jumbotron {
+	color: grey;
+	background: #222;
+	border:5px;
+	border-color: #080808;
+	border-style:solid;
+	min-height: 400px;
+}
+
+}
+img{
+	max-height: 300px;
+	max-width:250px;
+	min-height: 200px;
+	min-width: 	150px;
+	
+}
+.navbar-default .navbar-brand {
+	color: darkblue;
+}
+
+.navbar-default .navbar-nav>li>a{
+	color: darkblue;
+}
+
+.flex { 
+  display: flex; 
+  flex-wrap: wrap;
+}
+.he {
+	height: 100px%;
+}
+.thumbnail{
+	border-color:darkgrey;
+	border-width:0;
+	border-style:none;
+	background-color:#222;
+}

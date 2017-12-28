@@ -1,0 +1,35 @@
+body{
+	background-color:darkgray;
+}
+html{
+	height:100%;
+}
+#test {
+	align-items: center;
+}
+.jumbotron {
+	color: grey;
+	background: #222;
+	border:5px;
+	border-color: #080808;
+	border-style:solid;
+	padding-left: 5px;
+
+
+
+}
+#material{
+	text-align:center;
+}
+hr{
+	width:200px;
+	border-top:1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0,2);
+}
+.navbar-default .navbar-brand {
+	color: darkblue;
+}
+
+.navbar-default .navbar-nav>li>a{
+	color: darkblue;
+}
